@@ -23,7 +23,7 @@ data/raw (7 CSVs)
    → 04_export_dashboard_data.py   compute dashboard numbers → assets/data.js
    → index.html                    interactive dashboard
 ```
-Details of the raw files are in [`College_Placement_Dashboard_Data_Analytics/raw_datasets/README.md`](College_Placement_Dashboard_Data_Analytics/raw_datasets/README.md).
+Details of the raw files are in [`College_Placement_Dashboard_Data_Analytics/raw_datasets/README.md`](https://github.com/immortalityonpeak0987-coder/College_Placemet_Dashboard_Data_Analytics/tree/main/raw_datasets#raw-source-files).
 
 ## Key findings
 | Finding | Value |
