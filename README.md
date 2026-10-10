@@ -23,7 +23,7 @@ data/raw (7 CSVs)
    → 04_export_dashboard_data.py   compute dashboard numbers → assets/data.js
    → index.html                    interactive dashboard
 ```
-Details of the raw files are in [`data/raw/README.md`](data/raw/README.md).
+Details of the raw files are in [`data/raw/README.md`](college_placement_dashboard_data_analytics/raw_datasets/README.md).
 
 ## Key findings
 | Finding | Value |
